@@ -1,0 +1,87 @@
+@import url(https://fonts.googleapis.com/css?family=Fjalla+One);
+#osNavitems {
+  display: inline;
+  margin: 10px;
+  text-align-last: center;
+}
+
+#osNavitems a {
+  color: gray;
+}
+
+#osnavbar {
+  background: #2c3e50;
+  text-align: center;
+  background: ;
+  height: 730px;
+}
+
+.containe {
+  text-align: center;
+  background: #2c3e50;
+  height: 730px;
+}
+
+.navbar-collapse {
+  margin-left: 20%;
+}
+
+#loginicon {
+  margin-left: 200px;
+  cursor: pointer;
+}
+
+#loginicon img {
+  height: 40px;
+  margin-top: 8px;
+}
+
+#Mostpopular {
+  display: inline;
+  margin: 10px;
+  text-align-last: center;
+  margin-bottom: 30px;
+}
+
+#secondpart {
+  height: 700px;
+}
+
+.helloos {
+  font-size: 3em;
+}
+
+.usernamefiled {
+  margin-bottom: 30px;
+}
+
+.imgnav {
+  margin-top: 4%;
+  margin-left: 4%;
+}
+
+#wordsnav {
+  margin-top: 400px;
+  margin-right: 100px;
+  margin-left: 100px;
+  color: gray;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+.picAdvant1 {
+  widows: 2px;
+  height: 19px;
+}
+
+.oshover :hover{
+background: #bdc3c7;
+}
+
+#ticketos{
+margin-top: 100px;
+}
+
+
+#oswords {
+  margin-left: 2px;
+}
